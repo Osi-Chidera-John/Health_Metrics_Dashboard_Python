@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# User data (privacy!)
+data/health_data.csv
+
+# OS files
+.DS_Store
+Thumbs.db

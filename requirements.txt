@@ -1,0 +1,7 @@
+# Core dependencies for HealthTrack Pro
+
+# Data manipulation and analysis
+pandas>=1.3.0,<2.0.0
+
+# Data visualization
+matplotlib>=3.4.0,<4.0.0
