@@ -171,6 +171,10 @@ pip install pandas matplotlib
 ```bash
 python health_dashboard.py
 ```
+---
+
+## Project code
+[View Code Here](health_dashboard.py)
 
 ---
 
@@ -290,7 +294,7 @@ It is a small project, but it reflects a broader interest in developing the tech
 
 ## License
 
-This project is licensed under the MIT License. See the [`LICENSE`](health-dashboard-python\LICENSE) file for details.
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
 
 ---
 
