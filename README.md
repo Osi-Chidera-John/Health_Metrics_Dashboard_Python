@@ -10,7 +10,7 @@ The project combines programming, data analysis, visualization, and basic health
 
 ## Project Overview
 
-![Dashboard_overview](health-dashboard-python\figure\dashboard.png)
+![Dashboard_overview](health-dashboard-python/figure/dashboard.png)
 
 Health data is increasingly collected through smartphones, wearable devices, and digital health platforms. However, collecting data is only the first step; meaningful insights require the ability to organize, analyze, and communicate that information effectively.
 
@@ -290,7 +290,7 @@ It is a small project, but it reflects a broader interest in developing the tech
 
 ## License
 
-This project is licensed under the MIT License. See the []`LICENSE`](health-dashboard-python\LICENSE) file for details.
+This project is licensed under the MIT License. See the [`LICENSE`](health-dashboard-python\LICENSE) file for details.
 
 ---
 
